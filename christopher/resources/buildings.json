@@ -1,0 +1,94 @@
+{
+"final_village":{
+	"world_normal":{
+		"main":20,
+		"barracks":25,
+		"stable":20,
+		"garage":5,
+		"snob":1,
+		"smith":20,
+		"place":1,
+		"market":21,
+		"wood":30,
+		"stone":30,
+		"iron":30,
+		"farm":30,
+		"storage":30,
+		"hide":9,
+		"wall":20
+		},
+		
+	"world_church":{
+		"main":20,
+		"barracks":25,
+		"stable":20,
+		"garage":5,
+		"church:3,
+		"church_f:3,
+		"watchtower":1,
+		"snob":1,
+		"smith":20,
+		"place":1,
+		"statue":1,
+		"market":21,
+		"wood":30,
+		"stone":30,
+		"iron":30,
+		"farm":30,
+		"storage":30,
+		"hide":9,
+		"wall":20
+		}
+		
+		
+	}
+	"build_order":{
+		"standard":{
+			"wood":1,
+			"stone":1,
+			"iron":1,
+			"wood":2,
+			"wood":3,
+			"wood":4,
+			"wood":5,
+			"wood":6,
+			"wood":7,
+			"wood":8,
+			"wood":9,
+			"wood":10,
+			"wood":11,
+			"wood":12,
+			"wood":13,
+			"wood":14,
+			"wood":15,
+			"wood":16,
+			"wood":17,
+			"wood":18,
+			"wood":19,	
+			"wood":20,
+			"wood":21,
+			"wood":22,
+			"wood":23,
+			"wood":24,
+			"wood":25,
+			"wood":26,
+			"wood":27,
+			"wood":28,
+			"wood":29,
+			"wood":30,
+			
+		},
+		
+		"focus_troops":{
+		},
+		
+		"focus_farms":{
+		}
+	
+	
+	}
+	
+	
+	
+	
+	}

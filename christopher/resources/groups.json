@@ -1,0 +1,24 @@
+{
+    "troops":[
+        "OFF",
+        "OFF_NOFARM",
+        "OFF_AG",
+        "OFF_AG_NOFARM",
+        "DEFF_NORMAL",
+        "DEFF_NORMAL_NOFARM",
+        "DEFF_SKAV",
+        "DEFF_SKAV_NOFARM",
+		"DEFF_SPY",
+		"DEFF_SPY_NOFARM",
+        "SPY",
+        "FARM",
+        "RAM",
+		"CATA"
+    ],
+    "buildings":[
+
+    ],
+    "dynamic":[
+
+    ]
+}

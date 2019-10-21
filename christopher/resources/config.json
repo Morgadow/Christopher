@@ -1,0 +1,34 @@
+{
+	"settings_world" : {
+		"world" 					:	"166",
+		"world_type"				: 	"world_normal",
+		"world_speed"				:	"1.6",
+		"login_name"				:	"Christopher",
+		"login_password"			:	"christopher1337",
+		"church_active"				: 	"FALSE",
+		"watchtower_active"			:	"FALSE",
+		"flags_active"				:	"FALSE",
+		"tech_simple_active"		:	"TRUE",
+		"tech_adv_active"			:	"FALSE",
+		"coin_system_active"		:	"TRUE",
+		"snob_level_system_active"	:	"FALSE",
+		"paladin_active"			: 	"FALSE",
+		"bowman_active"				:	"FALSE",
+		"castle_active"				: 	"FALSE",
+		"bonusvillages_active"		: 	"FALSE",
+		"acceptance_gain"			:	"1.6",
+		
+		"night_protect_active"		: 	"TRUE",
+		"night_protect_start"		:	"23:00:000",
+		"night_protect_end"			:	"08:00:000",
+		
+		"premium_account_active"	:	"TRUE",
+		"farm_manager_active"		:	"TRUE",
+		"account_manager_active"	:	"FALSE",
+		"20_more_res_active"		:	["FALSE","FALSE","FALSE"]
+		
+		}
+	
+	
+	
+	}
